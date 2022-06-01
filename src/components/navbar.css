@@ -1,0 +1,46 @@
+.nav-bar{
+    display: flex;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 4px 3px 8px 1px #000;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+    margin-top: 10px;
+    align-items: center;
+    
+   
+}
+.nav-bar .points{
+    display: flex; 
+}
+.nav-bar .points li{
+    list-style: none;
+    margin-left:10px;
+    font-size: 1.2em; 
+}
+.nav-bar .points li a{
+    color: grey ;
+    font-size: 1em;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.nav-bar .points li a .icon{
+    color: #3080FF;
+}
+.nav-bar .points li .location{
+    color: black;
+    font-weight: bold;
+}
+.nav-bar .buttons{
+    float: right;
+
+}
+.nav-bar .buttons button{
+ background-color: #3080FF;
+ border-radius: 0px 10px 10px 0px;
+ margin-left: 400px;
+ padding: 20px;
+ font-size: 1em;
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ border-color: #fff;
+}

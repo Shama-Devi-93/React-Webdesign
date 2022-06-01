@@ -1,0 +1,22 @@
+.split {
+  height: 100%;
+  padding-top: 20px;
+}
+
+.side-bar{
+  
+  width: 30%;
+  float: left;
+
+}
+.homepage{
+ 
+  width: 70%;
+  float: right;
+}
+.bodypage{
+  position: absolute;
+}
+.side-bar .bodypage{
+  margin-left: 50px;
+}

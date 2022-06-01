@@ -1,0 +1,20 @@
+.search{
+    padding: 8px;
+    display: flex;
+}
+.search:hover, .search:focus {
+    background-color: white;
+  }
+.search input{
+    padding: 10px;
+    align-self: stretch;
+    border-color: white;
+    border-radius: 20px;
+    height: auto;
+    width: 250px;
+}
+.search .icon{
+    color: #3080FF;
+    margin-top: 10px;
+    font-size: 1.5em;
+}
