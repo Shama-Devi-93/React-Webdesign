@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shama-Devi-93/React-Webdesign.git/static/css/main.9047b623.css",
-    "main.js": "/Shama-Devi-93/React-Webdesign.git/static/js/main.8e3301bd.js",
-    "index.html": "/Shama-Devi-93/React-Webdesign.git/index.html",
-    "main.9047b623.css.map": "/Shama-Devi-93/React-Webdesign.git/static/css/main.9047b623.css.map",
-    "main.8e3301bd.js.map": "/Shama-Devi-93/React-Webdesign.git/static/js/main.8e3301bd.js.map"
+    "main.css": "/Shama-Devi-93/static/css/main.9047b623.css",
+    "main.js": "/Shama-Devi-93/static/js/main.8e3301bd.js",
+    "index.html": "/Shama-Devi-93/index.html",
+    "main.9047b623.css.map": "/Shama-Devi-93/static/css/main.9047b623.css.map",
+    "main.8e3301bd.js.map": "/Shama-Devi-93/static/js/main.8e3301bd.js.map"
   },
   "entrypoints": [
     "static/css/main.9047b623.css",
